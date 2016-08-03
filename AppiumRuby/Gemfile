@@ -1,0 +1,7 @@
+source 'https://www.rubygems.org'
+
+gem 'appium_lib',         '~> 8.0.0'
+gem 'rest-client',        '~> 1.6.7'
+gem 'pry'
+gem 'spec',               '~> 5.3.4'
+gem 'test-unit',          '~> 2.5.5' # required for bundle exec ruby xunit_android.rb
